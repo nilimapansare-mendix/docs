@@ -31,7 +31,7 @@ Within the [Team Server](#team-server) each app is stored in a repository. This 
 
 A revision is the version of your app at a moment in time, stored on the [Team Server](#team-server).
 
-Each revision of your app is given a unique number to identify it and enable you to find it in future. A new revision is created from Studio Pro in two circumstances:
+Each revision of your app is given a unique alphanumeric identifier which enables you to find it in future. A new revision is created from Studio Pro in two circumstances:
 
 * The app is committed to the repository
 * A Studio Pro working copy is updated from a Studio working copy
